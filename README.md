@@ -7,4 +7,5 @@ A modmail with rich features.
 
 ## About
 
-**discord-modmail** by Server/king, a JS modmail with rich features.
+**discord-modmail** by Server/king
+ credit = `Cyanic76` a JS modmail with rich features.
